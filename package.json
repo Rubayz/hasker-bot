@@ -1,0 +1,13 @@
+{
+  "name": "hasker",
+  "version": "1.0.0",
+  "description": "A simple bot with slash commands",
+  "main": "index.js",
+  "author": "Rubayz",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.5.0",
+    "discord.js": "^13.1.0",
+    "glob": "^7.1.7"
+  }
+}
